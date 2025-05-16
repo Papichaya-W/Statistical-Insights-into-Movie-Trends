@@ -12,7 +12,7 @@ This project explores movie-related datasets using **statistical analysis**, **h
 
 * [Project Overview](#project-overview)
 * [Data Source](#data-source)
-* [Data Preprocessing and Statistical Analysis] (#data-preprocessing-and-statistical-analysis)
+* [Data Preprocessing and Statistical Analysis](#data-preprocessing-and-statistical-analysis)
 * [Hypotheses](#hypotheses)
 * [Tools and Libraries](#tools-and-libraries)
 * [Key Visualizations](#key-visualizations)
